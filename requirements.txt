@@ -1,0 +1,10 @@
+# This file lists all the Python libraries your server needs.
+# Install them all by running:
+# pip install -r requirements.txt
+
+flask
+flask_cors
+tensorflow
+numpy
+opencv-python
+pillow
